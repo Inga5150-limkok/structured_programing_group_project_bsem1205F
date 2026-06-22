@@ -32,6 +32,7 @@ The implementation of this system provides several benefits:
 Ethical and Privacy Considerations
 Patient information is treated as confidential and is stored locally within the clinic system. The application is designed solely for healthcare management purposes. No patient information is shared with external organizations or third parties. Users of the system are expected to handle patient data responsibly and ethically.
  
+
 AUTHORS
 1.	Bai Inga Tomayor Kamara
 2.	Amadu Wurie Bantama Shaw
